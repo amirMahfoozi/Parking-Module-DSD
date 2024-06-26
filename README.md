@@ -1,6 +1,6 @@
 # Parking Module DSD
 
-This Verilog project models a sophisticated parking management system tailored for university needs. It prioritizes parking for faculty and staff, adjusts allocations dynamically throughout the day, and outputs real-time data on parked cars and available spaces.
+This Verilog project models a sophisticated parking management system tailored for university needs. It prioritizes parking for faculty and staff, adjusts allocations dynamically throughout the day, and outputs real-time data on parked cars and available spaces.You can see the main module for this project at [parking.v](https://github.com/amirMahfoozi/Parking-Module-DSD/blob/main/parking.v)
 
 ![_parking.jpg](https://raw.githubusercontent.com/amirMahfoozi/Parking-Module-DSD/main/parking.jpg)
 
