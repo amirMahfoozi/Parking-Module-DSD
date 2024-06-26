@@ -1,4 +1,4 @@
-# University Parking Management System
+# Parking Module DSD
 
 This Verilog project simulates a comprehensive parking management system for a university. The system prioritizes parking spaces for faculty and staff, dynamically adjusts based on the hour of the day, and provides clear outputs for the number of parked cars and available spaces.
 
