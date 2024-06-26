@@ -12,7 +12,6 @@ This Verilog project models a sophisticated parking management system tailored f
 - [Module Ports](#module-ports)
 - [Testbench](#testbench)
 - [Documentation](#documentation)
-- [Usage](#usage)
 - [Authors](#authors)
 
 ## Introduction
