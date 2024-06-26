@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vParkingManagement
+Z1 !s100 ^UFR5LYWaSe?`3eYMXzj^0
+Z2 I2GEP=P^_PI5VW;_5IZo`82
+Z3 V`Ff>o:5HQcC;=gg4n:E=l3
+Z4 dC:\Users\15142\Desktop\ai
+Z5 w1719416854
+Z6 8C:\Users\15142\Desktop\ai\parking.v
+Z7 FC:\Users\15142\Desktop\ai\parking.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\15142\Desktop\ai\parking.v|
+Z10 o-work work -O0
+Z11 n@parking@management
+!i10b 1
+!s85 0
+Z12 !s108 1719417750.832000
+Z13 !s107 C:\Users\15142\Desktop\ai\parking.v|
+!s101 -O0
+vParkingManagement_tb
+!i10b 1
+!s100 DTRK?9L?PVfXS[oK5=UIj1
+IiRR<e0?6oGoDV1b5OWYCO2
+VGH_LTFFhZ9>XDEGNUaR0?1
+R4
+w1719417744
+8C:\Users\15142\Desktop\ai\tb.v
+FC:\Users\15142\Desktop\ai\tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1719417750.898000
+!s107 C:\Users\15142\Desktop\ai\tb.v|
+!s90 -reportprogress|300|-work|work|C:\Users\15142\Desktop\ai\tb.v|
+!s101 -O0
+R10
+n@parking@management_tb
