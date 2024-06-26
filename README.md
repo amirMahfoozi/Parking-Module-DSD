@@ -55,10 +55,10 @@ The testbench [tb.v](https://github.com/amirMahfoozi/Parking-Module-DSD/blob/mai
 - Handling maximum general parking capacity
 
 ## Simulation Results
-The simulation result is in output_sample.txt file. You can see the waveforms by simulating the code yourself using modelsim.
+The simulation result is in [output_sample.txt](https://github.com/amirMahfoozi/Parking-Module-DSD/blob/main/output_sample.txt) file. You can see the waveforms by simulating the code yourself using modelsim.
 
 ## Tools
 Verilog
 
 ## Authors
-- [Amir Mohammad Mahfoozi](https://github.com/amirMahfoozi)
+- [Amir Mohammad Mahfoozi(401106469)](https://github.com/amirMahfoozi)
