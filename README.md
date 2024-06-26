@@ -20,7 +20,7 @@ The purpose of this project is to design a parking management module that effici
 - Comprehensive Outputs: Provides updated counts of parked vehicles and available spaces.
 
 ## Documentation
-The project includes comprehensive documentation to ensure it is easy to understand and modify. All design decisions, parameter details, and operational flows are included in the Documentation.pdf file.
+The project includes comprehensive documentation to ensure it is easy to understand and modify. All design decisions, parameter details, and operational flows are included in the [Documentation.pdf](https://github.com/amirMahfoozi/Parking-Module-DSD/blob/main/Documentation.pdf) file.
 
 ## Module Parameters
 - parameter MAX_ALUMNI_CAPACITY = 500;
