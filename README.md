@@ -6,11 +6,11 @@ This Verilog project models a sophisticated parking management system tailored f
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Tools](#tools)
+- [Documentation](#documentation)
 - [Module Parameters](#module-parameters)
 - [Module Ports](#module-ports)
 - [Testbench](#testbench)
-- [Documentation](#documentation)
+- [Tools](#tools)
 - [Authors](#authors)
 
 ## Introduction
@@ -19,8 +19,8 @@ The purpose of this project is to design a parking management module that effici
 - Dynamic Space Adjustment: Changes parking allocation according to the current time.
 - Comprehensive Outputs: Provides updated counts of parked vehicles and available spaces.
 
-## Tools
-Verilog
+## Documentation
+The project includes comprehensive documentation to ensure it is easy to understand and modify. All design decisions, parameter details, and operational flows are included in the Documentation.pdf file.
 
 ## Module Parameters
 - parameter MAX_ALUMNI_CAPACITY = 500;
@@ -57,8 +57,8 @@ The testbench (tb.v) is designed to rigorously verify the parking management mod
 ## Simulation Results
 The simulation result is in output_sample.txt file. You can see the waveforms by simulating the code yourself using modelsim.
 
-## Documentation
-The project includes comprehensive documentation to ensure it is easy to understand and modify. All design decisions, parameter details, and operational flows are included in the Documentation.pdf file.
+## Tools
+Verilog
 
 ## Authors
 - [Amir Mohammad Mahfoozi](https://github.com/amirMahfoozi)
