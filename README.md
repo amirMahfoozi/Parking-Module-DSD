@@ -77,3 +77,19 @@ These results ensure the design operates reliably at the intended clock speeds.
 
 ## Documentation
 The project is thoroughly documented to ensure clarity and ease of understanding. All design decisions, parameter explanations, and operational descriptions are detailed in the Documentation.pdf file included in the repository. This document serves as an extensive guide for anyone looking to understand, modify, or extend the project.
+### Contents of Documentation.pdf:
+- Design Overview: Detailed explanation of the project design and its components.
+- Parameter Definitions: Comprehensive descriptions of all parameters used in the design.
+- Operational Flow: Step-by-step explanation of how the module operates under various conditions.
+- Testbench Details: In-depth information on the test scenarios and how to interpret the results.
+- Synthesis and Timing Analysis: Detailed results and interpretations from the Quartus Prime synthesis and timing analysis.
+
+## Usage
+1. Simulation: Use Icarus Verilog for simulating the design.
+   ```sh
+   iverilog -o tb testbench.v
+   vvp tb
+
+2. Synthesis: Use Quartus Prime to synthesize the design for the ARIA II GX FPGA.
+
+## Authors
