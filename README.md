@@ -6,7 +6,6 @@ This Verilog project models a sophisticated parking management system tailored f
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Key Features](#Key-Features)
 - [Tools](#tools)
 - [Module Parameters](#module-parameters)
 - [Module Ports](#module-ports)
@@ -16,8 +15,6 @@ This Verilog project models a sophisticated parking management system tailored f
 
 ## Introduction
 The purpose of this project is to design a parking management module that efficiently handles university parking. It dynamically reallocates parking spaces for university and non-university vehicles based on the time of day to maximize the use of available parking spots.
-
-## Key-Features
 - Priority Allocation: Gives preference to university faculty and staff.
 - Dynamic Space Adjustment: Changes parking allocation according to the current time.
 - Comprehensive Outputs: Provides updated counts of parked vehicles and available spaces.
