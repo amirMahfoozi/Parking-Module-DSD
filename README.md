@@ -50,12 +50,12 @@ Verilog
 The testbench (tb.v) is designed to rigorously verify the parking management module, ensuring it functions correctly across various scenarios.
 
 ### Test Scenarios
-Initial conditions
-Entry of university and non-university vehicles at different times
-Exit of university and non-university vehicles at different times
-Adjusting parking spaces from 1 PM to 4 PM dynamically
-Managing overflow when university parking is full
-Handling maximum general parking capacity
+- Initial conditions
+- Entry of university and non-university vehicles at different times
+- Exit of university and non-university vehicles at different times
+- Adjusting parking spaces from 1 PM to 4 PM dynamically
+- Managing overflow when university parking is full
+- Handling maximum general parking capacity
 
 ## Simulation Results
 The simulation result is in output_sample.txt file. You can see the waveforms by simulating the code yourself using modelsim.
