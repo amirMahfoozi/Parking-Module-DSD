@@ -44,7 +44,7 @@ The project includes comprehensive documentation to ensure it is easy to underst
 - is_vacated_space           // Flag if there is space for non-alumni cars
 
 ## Testbench
-The testbench (tb.v) is designed to rigorously verify the parking management module, ensuring it functions correctly across various scenarios.
+The testbench [tb.v](https://github.com/amirMahfoozi/Parking-Module-DSD/blob/main/tb.v) is designed to rigorously verify the parking management module, ensuring it functions correctly across various scenarios.
 
 ### Test Scenarios
 - Initial conditions
