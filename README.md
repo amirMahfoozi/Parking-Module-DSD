@@ -26,25 +26,25 @@ The purpose of this project is to design a parking management module that effici
 Verilog
 
 ## Module Parameters
-parameter MAX_ALUMNI_CAPACITY = 500;
-parameter TOTAL_CAPACITY = 700;
+- parameter MAX_ALUMNI_CAPACITY = 500;
+- parameter TOTAL_CAPACITY = 700;
 
 ## Module Ports
-Inputs:
-wire clk,                  // Clock signal
-wire reset,                // Reset signal
-wire car_entered,          // Car entered signal
-wire is_uni_car_entered,   // Alumni car entered signal
-wire car_exited,           // Car exited signal
-wire is_uni_car_exited,    // Alumni car exited signal
-hour,           // Hour of the day (5 bits, 0 to 23)
-Outputs :
-uni_parked_car,      // Number of alumni cars parked
-parked_car,          // Number of non-alumni cars parked
-uni_vacated_space,   // Number of available spaces for alumni cars
-vacated_space,       // Number of available spaces for non-alumni cars
-uni_is_vacated_space,      // Flag if there is space for alumni cars
-is_vacated_space           // Flag if there is space for non-alumni cars
+- Inputs:
+- wire clk,                  // Clock signal
+- wire reset,                // Reset signal
+- wire car_entered,          // Car entered signal
+- wire is_uni_car_entered,   // Alumni car entered signal
+- wire car_exited,           // Car exited signal
+- wire is_uni_car_exited,    // Alumni car exited signal
+- hour,           // Hour of the day (5 bits, 0 to 23)
+- Outputs :
+- uni_parked_car,      // Number of alumni cars parked
+- parked_car,          // Number of non-alumni cars parked
+- uni_vacated_space,   // Number of available spaces for alumni cars
+- vacated_space,       // Number of available spaces for non-alumni cars
+- uni_is_vacated_space,      // Flag if there is space for alumni cars
+- is_vacated_space           // Flag if there is space for non-alumni cars
 
 ## Testbench
 The testbench (tb.v) is designed to rigorously verify the parking management module, ensuring it functions correctly across various scenarios.
